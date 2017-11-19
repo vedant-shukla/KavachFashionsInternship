@@ -1,0 +1,83 @@
+/*CSS for page header*/
+
+.pageHeader{
+   font-size: 150%;
+}
+.addNewButton{
+    margin-left: 10px;
+}
+
+
+/*For text before style code search box*/
+.styleCode,.mill,.fabric{
+    padding-top: 7px;
+}
+
+
+.editPencil{
+    color:blue;
+    
+}
+.editPencil:hover{
+    cursor: pointer;    
+}
+
+
+.table-fixed{
+  width: 100%;
+  font-size: 150%;
+	
+}
+ tbody{
+    max-height:400px;
+    overflow-y:auto;
+    width: 100%;
+    }
+thead, tbody, tr,td,th{
+	    display:block;
+}
+
+.table>tbody>td{
+	float:left;
+}
+.table>tbody>tr>td{
+	height:50px;
+	padding:0;
+}
+
+.table>thead>tr>th{
+	   float:left;
+}
+
+table td[class*=col-]{
+	float:left;
+	padding:0;
+}
+
+.outerAdminTable{
+	padding-left:10%;
+	padding-right:10%;
+
+}
+.searchOptions{
+	margin-top:20px;
+	margin-bottom:20px;
+}
+.adminTable{
+	border:1px solid #D3D3D3;
+	font-size:1em;
+		
+}
+.tableHeading{
+	background-color:#808080;
+	font-size:1.3em;
+	color:white;
+
+}
+
+.materialImg{
+	width:40px;
+	height:40px;
+}
+
+

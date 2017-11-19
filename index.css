@@ -1,0 +1,51 @@
+/*Css for page header*/
+.pageHeader{
+   font-size: 150%;
+}
+
+/*Css for div that contains login info*/
+.loginDiv{
+
+    width:320px;
+    height: 210px;
+    box-shadow: 0.5px 0.5px 0.5px 0.5px;
+    margin:auto;
+    margin-top:50px;
+    padding-top:50px;
+}
+
+/*CSs for text before username textbox*/
+.userName{
+    display: inline-block;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+}
+
+/*CSS for input box*/
+.userNameText{
+    display: inline-block;
+    margin-left:5px;
+}
+
+/*CSs for text before password textbox*/
+.password{
+    float:left;
+    padding-top:22px;
+    font-weight: bold;
+}
+/*CSs for password text box*/
+.passwordText{
+    float:left;
+    padding-top:15px;
+    margin-left:10px;
+}
+
+/*CSS for log in button*/
+.loginInButtonClass{
+    width:50px;
+    margin:auto;
+}
+
+.logInButton{
+    margin-top:10px;
+}

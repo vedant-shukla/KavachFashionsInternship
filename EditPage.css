@@ -1,0 +1,23 @@
+.pageHeader{
+   font-size: 150%;
+}
+.info{
+    padding-left:10px;
+}
+
+/*CSS for text above table*/
+.styleCode,.mill,.fabric{
+    font-size: 150%;
+}
+
+/*CSS for table*/
+
+
+.editPageCompleteButton{
+    float:right;
+    margin-right:10px;
+}
+
+#editPageBackButton{
+    margin-left:10px;
+}

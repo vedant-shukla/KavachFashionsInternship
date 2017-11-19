@@ -1,0 +1,8 @@
+changes:
+
+1) add excess fabric the same way we have waste meter.
+
+2) make the first row of list on the MainPage.php as fixed. The row having values like style code, mill, fabric etc.
+
+3) add the same effect on the admin.php page that is overflow of body should be hidden but table should
+   have scroll with its first row fixed.

@@ -1,0 +1,58 @@
+
+.adminTable{
+	border:1px solid #D3D3D3;
+	font-size:1em;
+		
+}
+
+.outerAdminTable{
+	padding-left:10%;
+	padding-right:10%;
+	padding-top:10px;
+}
+
+.tableHeading{
+	background-color:#808080;
+	font-size:1.3em;
+	color:white;
+	background-attachment:fixed;
+}
+
+.btnLinks{
+	margin-left:10%;
+}
+
+.btnLinksIn{
+	margin-right:10px;
+	width:100px;
+}
+
+.chartDetails{
+	position:absolute;
+	left:70px;
+	top:40px;
+	text-align:left;
+}
+.infoOut{
+	margin-top:30px;
+}
+
+.info{
+	margin-left:7%;
+	font-size:1.3em;
+}
+
+.searchBox{
+	width:20%;
+	margin-bottom:15px;
+	display:inline-block;
+}
+.wasteMeterDetails{
+	margin-bottom:15px;
+}
+.wasteMeterDetailsTitle{
+	font-size:1.5em;
+}
+.wasteMeterDetailsLink{
+	font-size:1em;
+}
